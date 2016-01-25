@@ -2,7 +2,10 @@ ImageProcessing
 ===============
 Image processing operations on color images
 
+
 Implemented Features
+
+
 | S No. | Features |
 | ----- | -------- |
 | 1. | [Image Blurring](https://en.wikipedia.org/wiki/Gaussian_blur) |
