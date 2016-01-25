@@ -18,19 +18,14 @@ Implemented Features
 
 Yet to implement
 
-1.Image Enhancement
-
-2.Cropping
-
-3.Resizing
-
-4.Noise Reduction
-
-5.Red Eye Detection
-
-6.Image Rotation
-
-7.Gamma Correction
-
-8.Color Adjustment
+| S No. | Features |
+| ----- | -------- |
+| 1. | [Image Enhancement](https://en.wikipedia.org/wiki/Image_editing)
+| 2. | [Cropping](https://en.wikipedia.org/wiki/Cropping_(image))
+| 3. | [Resizing](https://en.wikipedia.org/wiki/Image_scaling)
+| 4. | [Noise Reduction](https://en.wikipedia.org/wiki/Noise_reduction)
+| 5. | [Red Eye Detection](https://en.wikipedia.org/wiki/Red-eye_effect)
+| 6. | [Image Rotation](https://www.wavemetrics.com/products/igorpro/imageprocessing/imagetransforms/imagerotation.htm)
+| 7. | [Gamma Correction](https://en.wikipedia.org/wiki/Gamma_correction)
+| 8. | [Color Correction](https://en.wikipedia.org/wiki/Color_correction)
 
