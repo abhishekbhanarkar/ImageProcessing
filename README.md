@@ -3,14 +3,15 @@ ImageProcessing
 Image processing operations on color images
 
 Implemented Features
+| S No. | Features |
+| ----- | -------- |
+| 1. | [Image Blurring](https://en.wikipedia.org/wiki/Gaussian_blur) |
 
-1.Blurring 
+| 2. | [Sobel edge detection](https://en.wikipedia.org/wiki/Sobel_operator)|
 
-2.Sobel edge detection
+| 3. | [ Conversion of an image to runlength encoding](https://en.wikipedia.org/wiki/Run-length_encoding) |
 
-3.Conversion of an image to runlength encoding
-
-4.Conversion of runlength encoding to image
+| 4. | [Conversion of runlength encoding to image](https://en.wikipedia.org/wiki/Run-length_encoding) |
 
 ---------------------------------------------------------------------------
 
